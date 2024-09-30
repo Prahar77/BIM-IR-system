@@ -1,0 +1,100 @@
+Query: iPhone battery drain
+Rank 1: Document Docs1.txt, Score: 0.3582
+Rank 2: Document Docs18.txt, Score: 0.2107
+Rank 3: Document Docs17.txt, Score: 0.1050
+
+Query: Spotify Bluetooth issue
+Rank 1: Document Docs18.txt, Score: 0.0618
+Rank 2: Document Docs10.txt, Score: 0.0388
+Rank 3: Document Docs2.txt, Score: 0.0354
+
+Query: Train delay update
+Rank 1: Document Docs5.txt, Score: 0.1876
+Rank 2: Document Docs19.txt, Score: 0.1783
+Rank 3: Document Docs7.txt, Score: 0.1479
+
+Query: O2 telemarketing calls
+Rank 1: Document Docs17.txt, Score: 0.8420
+Rank 2: Document Docs18.txt, Score: 0.4226
+Rank 3: Document Docs19.txt, Score: 0.4194
+
+Query: iOS downgrade
+Rank 1: Document Docs1.txt, Score: 1.5297
+Rank 2: Document Docs18.txt, Score: 0.4468
+Rank 3: Document Docs17.txt, Score: 0.4457
+
+Query: British Airways delay
+Rank 1: Document Docs2.txt, Score: 0.6457
+Rank 2: Document Docs18.txt, Score: 0.4226
+Rank 3: Document Docs17.txt, Score: 0.4210
+
+Query: Tesco website down
+Rank 1: Document Docs18.txt, Score: 0.8464
+Rank 2: Document Docs17.txt, Score: 0.8432
+Rank 3: Document Docs19.txt, Score: 0.8399
+
+Query: Xbox download stuck
+Rank 1: Document Docs7.txt, Score: 1.5575
+Rank 2: Document Docs9.txt, Score: 0.0862
+Rank 3: Document Docs8.txt, Score: 0.0814
+
+Query: Netflix buffering
+Rank 1: Document Docs3.txt, Score: 0.5787
+Rank 2: Document Docs8.txt, Score: 0.3748
+Rank 3: Document Docs12.txt, Score: 0.1462
+
+Query: Amazon missing delivery
+Rank 1: Document Docs11.txt, Score: 0.7083
+Rank 2: Document Docs2.txt, Score: 0.4281
+Rank 3: Document Docs18.txt, Score: 0.0467
+
+Query: Samsung TV black screen
+Rank 1: Document Docs12.txt, Score: 1.0335
+Rank 2: Document Docs8.txt, Score: 0.0472
+Rank 3: Document Docs18.txt, Score: 0.0331
+
+Query: Spotify shuffle problem
+Rank 1: Document Docs13.txt, Score: 0.3076
+Rank 2: Document Docs18.txt, Score: 0.0523
+Rank 3: Document Docs19.txt, Score: 0.0519
+
+Query: UberEats wrong order
+Rank 1: Document Docs14.txt, Score: 1.2353
+Rank 2: Document Docs13.txt, Score: 0.0686
+Rank 3: Document Docs11.txt, Score: 0.0663
+
+Query: Tesla Supercharger error
+Rank 1: Document Docs15.txt, Score: 1.2186
+Rank 2: Document Docs18.txt, Score: 0.2110
+Rank 3: Document Docs17.txt, Score: 0.2102
+
+Query: Google Photos storage
+Rank 1: Document Docs16.txt, Score: 1.2246
+Rank 2: Document Docs20.txt, Score: 0.1376
+Rank 3: Document Docs18.txt, Score: 0.0702
+
+Query: Zoom audio issue
+Rank 1: Document Docs17.txt, Score: 0.2079
+Rank 2: Document Docs10.txt, Score: 0.0583
+Rank 3: Document Docs2.txt, Score: 0.0531
+
+Query: AirPods connection issue
+Rank 1: Document Docs18.txt, Score: 0.1850
+Rank 2: Document Docs8.txt, Score: 0.0358
+Rank 3: Document Docs10.txt, Score: 0.0291
+
+Query: Fitbit sync problem
+Rank 1: Document Docs19.txt, Score: 0.3116
+Rank 2: Document Docs18.txt, Score: 0.1047
+Rank 3: Document Docs13.txt, Score: 0.1027
+
+Query: YouTube HD playback
+Rank 1: Document Docs20.txt, Score: 0.8269
+Rank 2: Document Docs12.txt, Score: 0.2756
+Rank 3: Document Docs18.txt, Score: 0.1405
+
+Query: Uber cancellation fees
+Rank 1: Document Docs9.txt, Score: 0.6916
+Rank 2: Document Docs6.txt, Score: 0.3471
+Rank 3: Document Docs18.txt, Score: 0.1405
+
